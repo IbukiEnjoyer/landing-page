@@ -55,6 +55,7 @@ ul {
 
 .hero-text p, li a {
     font-size: 18px;
+    font-weight: lighter;
     color: #E5E7EB;
 }
 
@@ -172,4 +173,14 @@ ul {
     border-radius: 10px;
     border: 2px solid #fff;
     padding: 15px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    height: 80px;
+    color: #fff;
+    font-weight: lighter;
 }
